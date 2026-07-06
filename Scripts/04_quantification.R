@@ -1,6 +1,6 @@
 # ─────────────────────────────────────────────────────────────────────────────
 # 04_quantification.R — Read Quantification
-# RNA-Seq Pipeline | Dr. Hicham Charoute
+# RNA-Seq Pipeline | Karim Ghazouani
 # ─────────────────────────────────────────────────────────────────────────────
 # DESCRIPTION:
 #   Counts reads per gene using featureCounts (Rsubread).
