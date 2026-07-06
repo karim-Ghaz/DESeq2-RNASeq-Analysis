@@ -1,6 +1,6 @@
 # ─────────────────────────────────────────────────────────────────────────────
 # 06_differential_expression.R — Differential Expression Analysis
-# RNA-Seq Pipeline | Dr. Hicham Charoute
+# RNA-Seq Pipeline | Karim Ghazouani
 # ─────────────────────────────────────────────────────────────────────────────
 # DESCRIPTION:
 #   Runs DESeq2 differential expression analysis (Wald test).
