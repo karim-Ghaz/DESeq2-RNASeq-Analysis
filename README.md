@@ -249,7 +249,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-**Dr. Hicham Charoute**
+**Karim Ghazouani**
 
 For questions or contributions, feel free to open an issue or submit a pull request.
 
