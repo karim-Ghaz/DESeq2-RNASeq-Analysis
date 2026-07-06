@@ -1,6 +1,6 @@
 # ─────────────────────────────────────────────────────────────────────────────
 # 02_trimming.R — Read Trimming and Filtering
-# RNA-Seq Pipeline | Dr. Hicham Charoute
+# RNA-Seq Pipeline | Karim Ghazouani
 # ─────────────────────────────────────────────────────────────────────────────
 # DESCRIPTION:
 #   Trims adapter sequences and low-quality bases from raw reads using
