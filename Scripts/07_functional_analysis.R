@@ -1,6 +1,6 @@
 # ─────────────────────────────────────────────────────────────────────────────
 # 07_functional_analysis.R — Functional Enrichment Analysis
-# RNA-Seq Pipeline | Dr. Hicham Charoute
+# RNA-Seq Pipeline |Karim Ghazouani
 # ─────────────────────────────────────────────────────────────────────────────
 # DESCRIPTION:
 #   Performs Gene Ontology (GO) and KEGG pathway enrichment analysis on
