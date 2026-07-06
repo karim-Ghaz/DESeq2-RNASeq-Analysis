@@ -1,6 +1,6 @@
 # ─────────────────────────────────────────────────────────────────────────────
 # 03_alignment.R — Read Alignment
-# RNA-Seq Pipeline | Dr. Hicham Charoute
+# RNA-Seq Pipeline | Karim Ghazouani
 # ─────────────────────────────────────────────────────────────────────────────
 # DESCRIPTION:
 #   Aligns trimmed reads to the reference genome using Rsubread (subread aligner).
