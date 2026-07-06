@@ -1,0 +1,21 @@
+# ─── R ────────────────────────────────────────────────────────────────────────
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# ─── Raw data (heavy files — not versioned) ───────────────────────────────────
+data/raw/
+data/trimmed/
+
+# ─── Reference genome (too large for GitHub) ─────────────────────────────────
+reference/genome.fa
+reference/annotation.gtf
+reference/subread_index/
+
+# ─── Results (regenerable from scripts) ──────────────────────────────────────
+results/
+
+# ─── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
