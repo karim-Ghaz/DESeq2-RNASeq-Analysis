@@ -1,6 +1,6 @@
 # ─────────────────────────────────────────────────────────────────────────────
 # 01_qc.R — Quality Control
-# RNA-Seq Pipeline | Dr. Hicham Charoute
+# RNA-Seq Pipeline | Karim Ghazouani
 # ─────────────────────────────────────────────────────────────────────────────
 # DESCRIPTION:
 #   Runs quality control on raw FASTQ files using fastqcr.
