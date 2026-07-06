@@ -1,6 +1,6 @@
 # ─────────────────────────────────────────────────────────────────────────────
 # 05_normalization.R — Count Normalization
-# RNA-Seq Pipeline | Dr. Hicham Charoute
+# RNA-Seq Pipeline | Karim Ghazouani
 # ─────────────────────────────────────────────────────────────────────────────
 # DESCRIPTION:
 #   Normalizes raw counts using DESeq2 size factors (median-of-ratios method).
